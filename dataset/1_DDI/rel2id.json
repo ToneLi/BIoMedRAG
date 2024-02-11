@@ -1,0 +1,17 @@
+[
+    {
+        "0": "mechanism",
+        "1": "None",
+        "2": "int",
+        "3": "advise",
+        "4": "effect"
+    },
+    {
+        "mechanism": 0,
+        "None": 1,
+        "int": 2,
+        "advise": 3,
+        "effect": 4
+    }
+]
+
