@@ -1,0 +1,16 @@
+[
+    {
+        "0": "PRODUCT-OF",
+        "1": "DOWNREGULATOR",
+        "2": "ANTAGONIST",
+        "3": "AGONIST",
+        "4": "ACTIVATOR"
+    },
+    {
+        "PRODUCT-OF": 0,
+        "DOWNREGULATOR": 1,
+        "ANTAGONIST": 2,
+        "AGONIST": 3,
+        "ACTIVATOR": 4
+    }
+]
