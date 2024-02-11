@@ -43,3 +43,25 @@ data format:
 2) Transformer: pip install transformers==4.31.0
 
 3) GPU A100
+
+### 3) How to run
+
+
+```
+Step 1: Please access the "0_make_relation_chuck_and_scorer_data" directory and execute the code, proceeding through the files sequentially according to their assigned numbers. Ensure to update the file names and locations as necessary.
+
+Step2:  Please access the "1_train_scorer_model" directory and execute the code
+       CUDA_VISIBLE_DEVICES=1 python 0_train_retrievel_5..py,  please use the default parameters.
+
+Step3:   Please access the "2_relation_data_to_triple_train_data" directory and execute the code
+       python chuck_triplet_progress_train.py
+
+Step4:  Please access the "3_trainning_triple_model" directory and execute the code:
+     CUDA_VISIBLE_DEVICES=1 python 1_ourmethod_chuck5_sim_llama2_13b_right_2.py
+
+Step5:  Please access the "4_generation_triple_model" directory and execute the code:
+       CUDA_VISIBLE_DEVICES=1 python  chuck5_generation.py
+
+Step6:   Please access the "4_generation_triple_model" directory and execute the code  for the evaluation:
+         python 0_F1_triplet_evalution.py
+```
