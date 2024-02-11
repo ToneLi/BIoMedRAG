@@ -9,7 +9,7 @@ It  consists of three major steps:  (1) constructing the diverse chunk database;
 ###  2) Baselines
  For the baseline models, please refer [Trple Extraction Baselines](https://github.com/ToneLi/Sunflowers-triplet-extraction)
 
-### 3)[GM-CIHT](https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/tree/main/dataset/0_GM-CIHT)
+### 3) [GM-CIHT](https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/tree/main/dataset/0_GM-CIHT)
 
 data format:
 
