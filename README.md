@@ -29,9 +29,9 @@ data format:
 
 ----2_relation_data_to_triple_train_data
 
-----4_trainning_triple_model  (LLM training for triple extraction)
+----3_trainning_triple_model  (LLM training for triple extraction)
 
-----6_generation_triple_model  (generation progress)
+----4_generation_triple_model  (generation progress)
 ```
 
 ### 5) Configuration
