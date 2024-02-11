@@ -4,7 +4,7 @@
 
 The architecture of our proposed PeTailor is depicted in the diagram below.
 It  consists of three major steps:  (1) constructing the diverse chunk database; (2) training the tailored chunk scorer to select the relevant document for the input sentence, the relevant document is from the diverse chunk database; (3) incorporating the retrieved document into the LLM  to generate the triple for the given sentence.
-<img src="https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/blob/main/framework.png" width="500"/>
+<img src="https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/blob/main/framework.png" width="800"/>
 
 
 
