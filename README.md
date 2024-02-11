@@ -23,12 +23,23 @@ data format:
 
 ```
 ----0_make_relation_chuck_and_scorer_data (data preprogress)
+
 ----1_train_scorer_model  (chuck score training)
       --  please replace the trainer.py file in the source transformer file, and add the  SplitInputsChunks.py and ChuckWeights.py to the transformer file.
+
 ----2_relation_data_to_triple_train_data
+
 ----4_trainning_triple_model  (LLM training for triple extraction)
+
 ----6_generation_triple_model  (generation progress)
 ```
 
+### 5) Configuration
 
+**Step 1**:
 
+1) Python  3.8.8
+
+2) Transformer: pip install transformers==4.31.0
+
+3) GPU A100
