@@ -9,7 +9,16 @@ It  consists of three major steps:  (1) constructing the diverse chunk database;
 ###  2) Baselines
  For the baseline models, please refer [Trple Extraction Baselines](https://github.com/ToneLi/Sunflowers-triplet-extraction)
 
-### 3) 
+### 3) GM-CIHT
+
+data format:
+
+```
+{"PREDICATE": "INTERACTS_WITH",
+"SUBJECT_TEXT": "nalorphine",
+"OBJECT_TEXT": "morphine",
+"SENTENCE": "[on the effect of respiration of a combination of  morphine -like acting pethidine with the  morphine  antagonist  nalorphine ]."}
+```
 
 
 
