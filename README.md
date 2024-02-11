@@ -46,7 +46,7 @@ data format:
 
 
 ```
-** Step 1 **: Please access the "0_make_relation_chuck_and_scorer_data" directory and execute the code, proceeding through the files sequentially according to their assigned numbers. Ensure to update the file names and locations as necessary.
+Step 1: Please access the "0_make_relation_chuck_and_scorer_data" directory and execute the code, proceeding through the files sequentially according to their assigned numbers. Ensure to update the file names and locations as necessary.
 
 Step2:  Please access the "1_train_scorer_model" directory and execute the code
        CUDA_VISIBLE_DEVICES=1 python 0_train_retrievel_5..py,  please use the default parameters.
