@@ -40,8 +40,8 @@ def prepare_data(path):
 # formatted_dataset = dbricks_15k_dataset_prepared.map(formatting_func)
 
 
-train_path="/home/li003378/project1/llama_project/5_make_chuck/train_chuck_instruction_5_llama13b_right.json"
-test_path="/home/li003378/project1/llama_project/5_make_chuck/test_chuck_instruction_5_llama13b_right.json"
+train_path="train_chuck_instruction_5_llama13b_right.json"
+test_path="test_chuck_instruction_5_llama13b_right.json"
 
 train = prepare_data(train_path)
 test = prepare_data(test_path)
@@ -90,7 +90,7 @@ supervised_finetuning_trainer = SFTTrainer(
         max_steps=1000,
         max_grad_norm=0.3,
         warmup_ratio=0.03,
-        output_dir="/scratch/ahcie-gpu2/ZhangR-Req00498/MingchenModels/PETAILOR/13b_KNN_retrivel_chucks5_llama2_13b_1000",
+        output_dir="Our_model",
         optim="paged_adamw_8bit",
         fp16=True,
     ),
@@ -101,8 +101,3 @@ supervised_finetuning_trainer = SFTTrainer(
 )
 
 supervised_finetuning_trainer.train()
-
-
-"""
-CUDA_VISIBLE_DEVICES=2 nohup  python _train_retrievel_5.py  >myout._train_retrievel_5_weight 2>&1 &
-"""
