@@ -21,6 +21,7 @@ data format:
 ```
 ###  4) Code Structure
 
+* 0_make_relation_chuck_and_scorer_data (data pre progress)
 ```
 ----0_make_relation_chuck_and_scorer_data (data preprogress)
 
