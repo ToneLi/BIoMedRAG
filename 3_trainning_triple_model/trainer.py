@@ -89,7 +89,7 @@ supervised_finetuning_trainer = SFTTrainer(
         save_steps=1000,
         max_grad_norm=0.3,
         warmup_ratio=0.03,
-        output_dir="/scratch/ahcie-gpu2/ZhangR-Req00498/MingchenModels/PETAILOR/TE_llama2_13b_ourmethod_chuck5_right_0",
+        output_dir="TE_llama2_13b_ourmethod_chuck5_right_0",
         optim="paged_adamw_8bit",
         fp16=True,
     ),
@@ -100,9 +100,3 @@ supervised_finetuning_trainer = SFTTrainer(
 )
 
 supervised_finetuning_trainer.train()
-
-
-
-"""
-CUDA_VISIBLE_DEVICES=0  nohup  python 1_ourmethod_chuck5_sim_llama2_13b.py >myout.1_ourmethod_chuck5_sim_llama2_13b 2>&1 &   
-"""
