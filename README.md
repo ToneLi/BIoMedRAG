@@ -53,18 +53,18 @@ CUDA_VISIBLE_DEVICES=0  python 0_train_retrievel_5.py
 
 #### LLM training for triple extraction
 
-** step1 **: enter the "https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/tree/main/3_trainning_triple_model" and run:
+**step1**: enter the "https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/tree/main/3_trainning_triple_model" and run:
 
  ```
 CUDA_VISIBLE_DEVICES=0  nohup  python trainer.py >myout.trainer 2>&1 &   
 ```
 
-step 3:  triple generation:
+**step 2**:  triple generation:
 enter 4_generation_triple_model and run:
 ```
 CUDA_VISIBLE_DEVICES=0  python chuck5_generation_8000.py
 ```
-step 2:  The generated file is in [petailor_output_for_GM-CIHT](https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/blob/main/4_generation_triple_model/chuck_5_triplet_8000.json), please run:
+**step 3**:  The generated file is in [petailor_output_for_GM-CIHT](https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/blob/main/4_generation_triple_model/chuck_5_triplet_8000.json), please run:
 
  ```
   python   0_F1_triplet_evalution.py
