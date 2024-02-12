@@ -33,7 +33,7 @@ def calclulate_f1(statics_dict, prefix=""):
 
 
 i=-1
-with open("chuck_5_triplet_sim_abaltion_8000.json", "r", encoding="utf-8") as fr:  # llama2_7b_1000_KNN_0.json   llama2_7b_sample_1000.json
+with open("chuck_5_triplet_8000.json", "r", encoding="utf-8") as fr:  # llama2_7b_1000_KNN_0.json   llama2_7b_sample_1000.json
     for line in fr.readlines():
         line=line.strip()
         line=json.loads(line)
@@ -51,10 +51,10 @@ with open("chuck_5_triplet_sim_abaltion_8000.json", "r", encoding="utf-8") as fr
         gr=gold_t[1].lower()
         gt=gold_t[2].lower().replace("       "," ")
       
-        # gold_triples.add((gh,gr,gt))
+        gold_triples.add((gh,gr,gt))
         # gold_triples.add((gh))
         # gold_triples.add((gt))
-        gold_triples.add((gr))
+        # gold_triples.add((gr))
             
     
 
@@ -72,10 +72,10 @@ with open("chuck_5_triplet_sim_abaltion_8000.json", "r", encoding="utf-8") as fr
                 pt=predicte_t[2].lower().replace("       "," ").strip()#.replace(" .","").replace(" 3. context:{}. response: {}","").replace(" 1. context:{}. response: {}","").replace(" 2. context:{}. response: {}","").replace(" 3. response: {}","")
                 pr=predicte_t[1].lower()
              
-                # P.add((ph,pr,pt))
+                P.add((ph,pr,pt))
                 # P.add((ph))
                 # P.add((pt))
-                P.add((pr))
+                # P.add((pr))
            
   
       
