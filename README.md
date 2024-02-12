@@ -53,7 +53,7 @@ CUDA_VISIBLE_DEVICES=0  python 0_train_retrievel_5.py
 
 #### LLM training for triple extraction
 
-step1: enter the "https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/tree/main/3_trainning_triple_model" and run:
+** step1 **: enter the "https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/tree/main/3_trainning_triple_model" and run:
 
  ```
 CUDA_VISIBLE_DEVICES=0  nohup  python trainer.py >myout.trainer 2>&1 &   
