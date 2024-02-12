@@ -42,7 +42,23 @@ data format:
 
 3) GPU A100
 
-### 3) How to run
+### 3)  Easy way to train the model and doing the model evalation
+
+step1: enter the "https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/tree/main/3_trainning_triple_model"m and run:
+
+ ```
+CUDA_VISIBLE_DEVICES=0  nohup  python trainer.py >myout.trainer 2>&1 &   
+```
+
+step 2:  The generated file is [petailor_output_for_GM-CIHT](https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/blob/main/4_generation_triple_model/chuck_5_triplet_8000.json), please run:
+
+ ```
+  python   0_F1_triplet_evalution.py
+  results: {'all-prec': 0.8177874186550976, 'all-recall': 0.810752688172043, 'all-f1': 0.8142548596112312}
+```
+ 
+
+### 4) How to run (full step)
 
 
 ```
@@ -63,12 +79,4 @@ Step5:  Please access the "4_generation_triple_model" directory and execute the 
 Step6:   Please access the "4_generation_triple_model" directory and execute the code  for the evaluation:
          python 0_F1_triplet_evalution.py
 ```
-### 3)  Output file
-
- The generated file is [petailor_output_for_GM-CIHT](https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/blob/main/4_generation_triple_model/chuck_5_triplet_8000.json), please run 
- ```
-  python   0_F1_triplet_evalution.py
-  results: {'all-prec': 0.8177874186550976, 'all-recall': 0.810752688172043, 'all-f1': 0.8142548596112312}
-```
- 
 
