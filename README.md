@@ -50,7 +50,7 @@ step1: enter the "https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/t
 CUDA_VISIBLE_DEVICES=0  nohup  python trainer.py >myout.trainer 2>&1 &   
 ```
 
-step 2:  The generated file is [petailor_output_for_GM-CIHT](https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/blob/main/4_generation_triple_model/chuck_5_triplet_8000.json), please run:
+step 2:  The generated file is in [petailor_output_for_GM-CIHT](https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/blob/main/4_generation_triple_model/chuck_5_triplet_8000.json), please run:
 
  ```
   python   0_F1_triplet_evalution.py
