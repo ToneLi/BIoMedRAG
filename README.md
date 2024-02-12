@@ -21,27 +21,25 @@ data format:
 ```
 ###  4) Code Structure
 
-* 0_make_relation_chuck_and_scorer_data (data pre progress)
-```
-----0_make_relation_chuck_and_scorer_data (data preprogress)
+* 0_make_relation_chuck_and_scorer_data (data pre-progress)
 
-----1_train_scorer_model  (chuck score training)
-      --  please replace the trainer.py file in the source transformer file, and add the  SplitInputsChunks.py and ChuckWeights.py to the transformer file.
+* 1_train_scorer_model  (chuck score training)
+      --  1) Please download the transformer file to 1_train_scorer_model from the huggingface. 2) Please replace the trainer.py file in the source transformer file, and add the  SplitInputsChunks.py and ChuckWeights.py to the transformer file.
 
-----2_relation_data_to_triple_train_data
+* 2_relation_data_to_triple_train_data
 
-----3_trainning_triple_model  (LLM training for triple extraction)
+* 3_trainning_triple_model  (LLM training for triple extraction)
 
-----4_generation_triple_model  (generation progress)
-```
+* 4_generation_triple_model  (generation progress) 
+
 
 ### 5) Configuration
 
-1) Python  3.8.8
+* Python  3.8.8
 
-2) Transformer: pip install transformers==4.31.0
+* Transformer: pip install transformers==4.31.0
 
-3) GPU A100
+* GPU A100
 
 ### 3)  Easy way to train and evaluate the model
 ####  Chuck scorer training
@@ -75,23 +73,21 @@ CUDA_VISIBLE_DEVICES=0  python chuck5_generation_8000.py
 
 ### 4) How to run (full step)
 
+* **Step 1**: Please access the "0_make_relation_chuck_and_scorer_data" directory and execute the code, proceeding through the files sequentially according to their assigned numbers. Ensure to update the file names and locations as necessary.
 
-```
-Step 1: Please access the "0_make_relation_chuck_and_scorer_data" directory and execute the code, proceeding through the files sequentially according to their assigned numbers. Ensure to update the file names and locations as necessary.
-
-Step2:  Please access the "1_train_scorer_model" directory and execute the code
+* **Step2**:  Please access the "1_train_scorer_model" directory and execute the code
        CUDA_VISIBLE_DEVICES=1 python 0_train_retrievel_5..py,  please use the default parameters.
 
-Step3:   Please access the "2_relation_data_to_triple_train_data" directory and execute the code
+* **Step3**:   Please access the "2_relation_data_to_triple_train_data" directory and execute the code
        python chuck_triplet_progress_train.py
 
-Step4:  Please access the "3_trainning_triple_model" directory and execute the code:
+* **Step4**:  Please access the "3_trainning_triple_model" directory and execute the code:
      CUDA_VISIBLE_DEVICES=1 python 1_ourmethod_chuck5_sim_llama2_13b_right_2.py
 
-Step5:  Please access the "4_generation_triple_model" directory and execute the code:
+* **Step5**:  Please access the "4_generation_triple_model" directory and execute the code:
        CUDA_VISIBLE_DEVICES=1 python  chuck5_generation.py
 
-Step6:   Please access the "4_generation_triple_model" directory and execute the code  for the evaluation:
+* **Step6**:   Please access the "4_generation_triple_model" directory and execute the code  for the evaluation:
          python 0_F1_triplet_evalution.py
-```
+
 
