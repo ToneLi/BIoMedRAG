@@ -43,6 +43,15 @@ data format:
 3) GPU A100
 
 ### 3)  Easy way to train and evaluate the model
+####  Chuck scorer training
+
+Please enter: 1_train_chuck_scorer_model, and run:
+
+```
+CUDA_VISIBLE_DEVICES=0  python 0_train_retrievel_5.py
+```
+
+#### LLM training for triple extraction
 
 step1: enter the "https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/tree/main/3_trainning_triple_model" and run:
 
