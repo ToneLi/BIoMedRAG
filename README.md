@@ -44,7 +44,7 @@ data format:
 
 ### 3)  Easy way to train the model and doing the model evalation
 
-step1: enter the "https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/tree/main/3_trainning_triple_model"m and run:
+step1: enter the "https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/tree/main/3_trainning_triple_model" and run:
 
  ```
 CUDA_VISIBLE_DEVICES=0  nohup  python trainer.py >myout.trainer 2>&1 &   
