@@ -8,19 +8,17 @@ from peft import PeftModel
 import sentencepiece
 import accelerate
 import json
-# base_model= "openlm-research/open_llama_3b"
-# lora_weights="/home/li003378/project1/llama_project/1_Sunflower_Relation_extraction_13b/0_models/13b_sample_KNN_our_chuck_1/checkpoint-1000"  #FTOpenLM-just_ourdata   SFTOpenLM-with_ourdata_lolly   SFTOpenLM-Dolly15k
 
 number_="8000"
 
 checkpoint="checkpoint-%s"%number_
 
-input_test_file_name="/home/li003378/project1/llama_project/0_Sunflower_triplet_extraction_13b/make_chuck_triplet_data/test_chuck_5_triplet_llama2_13b_right_0.json"
+input_test_file_name="test_chuck_5_triplet_llama2_13b_right_0.json"
 save_file_name="chuck_5_triplet_sim_abaltion_%s.json"%number_
 
 
 
-lora_weights="/scratch/ahcie-gpu2/Zhang/PETAILOR/TE_llama2_13b_ourmethod_chuck5_right_0"+"/"+checkpoint  #FTOpenLM-just_ourdata   SFTOpenLM-with_ourdata_lolly   SFTOpenLM-Dolly15k
+lora_weights="TE_llama2_13b_ourmethod_chuck5_right_0"+"/"+checkpoint  #FTOpenLM-just_ourdata   SFTOpenLM-with_ourdata_lolly   SFTOpenLM-Dolly15k
 
 
 # lora_config = LoraConfig.from_pretrained(saved_path)
