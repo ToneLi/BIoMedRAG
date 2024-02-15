@@ -40,11 +40,7 @@ def sentence_chucks_mapping():
 SC_map=sentence_chucks_mapping()
 
 
-"""
-entity_dict = "/home/li003378/project1/llama_project/5_make_chuck/all_candiate_chunks_5.txt"
-entity_path = "/home/li003378/project1/llama_project/5_make_chuck/all_posible_chuck_vector_5_llama2_13b.npy"
 
-"""
 def redefine_instruction():
     fw=open("test_chuck_instruction_5_llama13b_right.json","w")
 
