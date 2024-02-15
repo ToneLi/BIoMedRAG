@@ -107,8 +107,8 @@ class Get_Chunks_Inputs:
         return entity2idx, idx2entity, embedding_matrix
 
     def get_mapping_and_matrix(self):
-        entity_dict = "/home/li003378/project1/llama_project/5_make_chuck/all_candiate_chunks_5.txt"
-        entity_path = "/home/li003378/project1/llama_project/5_make_chuck/all_posible_chuck_vector_5_llama2_13b.npy"
+        entity_dict = "5_make_chuck/all_candiate_chunks_5.txt"
+        entity_path = "5_make_chuck/all_posible_chuck_vector_5_llama2_13b.npy"
         chunks_matrix = np.load(entity_path)
         mapping = self.chuck_to_id(entity_dict)
         return mapping,chunks_matrix
