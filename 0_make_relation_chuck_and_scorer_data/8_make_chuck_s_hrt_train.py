@@ -1,26 +1,14 @@
 import json
 import random
-# relation_chuck_data_train="/home/li003378/project1/llama_project/1_Sunflower_Relation_extraction_13b/0_models/data/train_chuck_final_ICL_t2.json"
-# relation_chuck_data_test="/home/li003378/project1/llama_project/1_Sunflower_Relation_extraction_13b/0_models/data/test_chuck_final_ICL_t2.json"
-
-# relation_chuck_data_train="/home/li003378/project1/llama_project/1_Sunflower_Relation_extraction_13b/0_models/data/train_chuck5_s_r_sim_ablation.json"
-# relation_chuck_data_test="/home/li003378/project1/llama_project/1_Sunflower_Relation_extraction_13b/0_models/data/test_chuck5_s_r_sim_ablation.json"
-
-
-# relation_chuck_data_train="/home/li003378/project1/llama_project/1_Sunflower_Relation_extraction_13b/0_models/data/train_chuck3_s_r_sim.json"
-# relation_chuck_data_test="/home/li003378/project1/llama_project/1_Sunflower_Relation_extraction_13b/0_models/data/test_chuck3_s_r_random.json"
-
-# relation_chuck_data_train="/home/li003378/project1/llama_project/0_Final_code_triplet/0_train_retrival_5_llama2_13b_TE_and_RE_2/data/train_chuck5_s_r_llama2_13b_right_one.json"
-# relation_chuck_data_test="/home/li003378/project1/llama_project/0_Final_code_triplet/0_train_retrival_5_llama2_13b_TE_and_RE_2/data/test_chuck5_s_r_llama2_13b_right_one.json"
 
 
 relation_chuck_data_train="train_chuck5_s_r_sim_ablation_llama2_13b.json"
 relation_chuck_data_test="test_chuck5_s_r_sim_ablation_llama2_13b.json"
 
-triplet_KNN_top1_train="/home/li003378/project1/llama_project/0_Sunflower_triplet_extraction_13b/data/KNN_demo_train.json"
-triplet_KNN_top1_test="/home/li003378/project1/llama_project/0_Sunflower_triplet_extraction_13b/data/KNN_demo_test.json"
+triplet_KNN_top1_train="0_Sunflower_triplet_extraction_13b/data/KNN_demo_train.json"
+triplet_KNN_top1_test="0_Sunflower_triplet_extraction_13b/data/KNN_demo_test.json"
 
-dev_source="/home/li003378/project1/llama_project/1_Sunflower_Relation_extraction_13b/5_make_chuck/renew_triplet_T_dev.jsonl"
+dev_source="renew_triplet_T_dev.jsonl"
 
 def HT_R():
     dic_={}
