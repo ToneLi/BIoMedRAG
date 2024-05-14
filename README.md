@@ -1,9 +1,9 @@
-## PETAILOR: Improving Large Language Models with a Tailored Chunk Scorer for Biomedical Triple Extraction
+## BiomedRAG: A Retrieval augmented Large Language Model for Biomedicine
 
 ### 1) Overview
 
 The architecture of our proposed PeTailor is depicted in the diagram below.
-It  consists of three major steps:  (1) constructing the diverse chunk database; (2) training the tailored chunk scorer to select the relevant document for the input sentence, the relevant document is from the diverse chunk database; (3) incorporating the retrieved document into the LLM  to generate the triple for the given sentence.
+It  consists of three major steps:  (1) constructing the diverse chunk database; (2) training the tailored chunk scorer to select the relevant document for the input sentence, the relevant document is from the diverse chunk database; (3) incorporating the retrieved document into the LLM  to generate the triple or other output for the given sentence.
 <img src="https://github.com/ToneLi/PETAILOR-for-bio-triple-extraction/blob/main/framework.png" width="800"/>
 
 ### 2)baselines
