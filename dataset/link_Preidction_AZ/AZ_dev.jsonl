@@ -1,0 +1,720 @@
+{"text": "what is the relationship between disorder of aging and Beriberi ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Gomez Lopez Hernandez syndrome and Rhombencephalosynapsis ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between 5-ethynyl-2'-deoxyuridine and RANBP5 gene|IPO5 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between PLSCR1 gene|PLSCR1 and Primary Malignant Liver Neoplasm ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Fusarium moniliforme antigen and prochloraz ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between LMOD3 gene|LMOD3 and myoblast proliferation ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between Mannose-6-Phosphate Isomerase and MPI gene|MPI ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Comamonas aquatica and Fusarium solani ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between CGAS gene|CGAS and cyclic-GMP-AMP synthase activity ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between Operation on skin and Recent myocardial infarction ?", "label": "TREATS"}
+{"text": "what is the relationship between Cyst, abdominal and Juvenile type ovarian granulosa cell tumor ?", "label": "MANIFESTATION_OF"}
+{"text": "what is the relationship between protein activation and Alzheimer's Disease ?", "label": "CAUSES"}
+{"text": "what is the relationship between acetylacetone and Pyrazole derivative ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between IKZF1 gene|IKZF1 and B Acute Lymphoblastic Leukemia, Philadelphia Chromosome Negative ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between ANKRD27 gene|ANKRD27 and VPS29 gene|VPS29 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Restriction fragment length polymorphism and Anisakiasis ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Trendelenburg positioning (procedure) and Postoperative atelectasis ?", "label": "PREVENTS"}
+{"text": "what is the relationship between amyloid fibril formation and Alzheimer's Disease ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Infection by Pythium insidiosum and Ulcerative dermatitis ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Low Anterior Resection and Rectal Diseases ?", "label": "TREATS"}
+{"text": "what is the relationship between Anticonvulsant therapy and Nicolaides Baraitser syndrome ?", "label": "TREATS"}
+{"text": "what is the relationship between MCC gene|MCC and CEBPB gene|CEBPB ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Cervical spondylosis and Vertigo, Peripheral ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Duct ectasia and Non-scarring alopecia ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between EZH2 Inhibitor and Histone H3 Lysine 27 ?", "label": "INHIBITS"}
+{"text": "what is the relationship between desmoglein 1|DSG1 and Severe dermatitis, multiple allergies, metabolic wasting syndrome ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Baker's Antifol and MLL2 gene|KMT2D|KMT2B ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between IMPA2 gene|IMPA2 and Short Hairpin RNA ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Non-Cytotoxic Agent and Neoplasms by Site ?", "label": "TREATS"}
+{"text": "what is the relationship between Range of Motion, Articular and Mechanical pain ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Rickettsia and Spalangia endius ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between SLC35A2 gene|SLC35A2 and N(6)-methyladenosine ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between PTBP1 gene|PTBP1 and stomach cell ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between prefoldin and VHL protein, human|VHL ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Tumor-Associated Macrophage and PIK3CG wt Allele|PIK3CG ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between YTHDC1 gene|YTHDC1 and N(6)-methyladenosine ?", "label": "STIMULATES"}
+{"text": "what is the relationship between TNF receptor-associated factor 5|TNF and IL6ST protein, human|IL6ST ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Acinetobacter calcoaceticus and Burn infection ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between microglial cell activation and Rajiformes ?", "label": "AFFECTS"}
+{"text": "what is the relationship between methylene dimethanesulfonate and Indoleamine 2,3-Dioxygenase, human ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between TMEM106B gene|TMEM106B and lysosomal lumen acidification ?", "label": "CAUSES"}
+{"text": "what is the relationship between RARRES1 gene|RARRES1 and RIOK1 gene|RIOK1 ?", "label": "INHIBITS"}
+{"text": "what is the relationship between WEE1 gene|WEE1 and XIST gene|XIST ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between TDGF1 gene|TDGF1 and Odontogenic Cysts ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between RAB27B gene|RAB27B and ORALIT ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Guanosine triphosphatase and SPHKAP wt Allele ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Image Study and Flaccid Quadriplegia ?", "label": "AFFECTS"}
+{"text": "what is the relationship between eravacycline and TLE5 gene|AES ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Krebs-Ringer solution and carbogen ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Deficiency of mevalonate kinase and Intrahepatic biliary atresia ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between MCM2 gene|MCM2 and kinase binding ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Adenosine Phosphosulfate and Feed Intake ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Antiplatelet and Recurrent thrombophlebitis ?", "label": "TREATS"}
+{"text": "what is the relationship between Porencephaly and Capgras Syndrome ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between YAP1 protein, human|YAP1 and enzalutamide ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between 1-triacontanol and Fragaria ananassa ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Motor function and Neonatal hypoglycemia ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Anosmia and Ageusia ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between P2RX7 gene|P2RX7 and Acute myeloid leukemia, 11q23 abnormalities ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between Cell of Claudius and Steroid 11-beta-Monooxygenase|CYP11B1 ?", "label": "PRODUCES"}
+{"text": "what is the relationship between Acaricides and Abnormal cell structure ?", "label": "CAUSES"}
+{"text": "what is the relationship between lipoprotein-associated phospholipase A(2) and Vertebrobasilar Dolichoectasia ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between Curvibacter and Duganella ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between sodium ironedetate and Anemia of chronic disease ?", "label": "TREATS"}
+{"text": "what is the relationship between ramucirumab and Exposed Population ?", "label": "TREATS"}
+{"text": "what is the relationship between Altered auditory feedback and Aphasia, Post-Ictal ?", "label": "TREATS"}
+{"text": "what is the relationship between Multiple interventional procedures and etiology unknown ?", "label": "TREATS"}
+{"text": "what is the relationship between PRKCZ gene|PRKCZ and zeta-inhibitory peptide ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Total hysterectomy with removal of both tubes and ovaries and Pyometra ?", "label": "TREATS"}
+{"text": "what is the relationship between Mechanical vitrectomy by pars plana approach and Tubal Obstruction ?", "label": "TREATS"}
+{"text": "what is the relationship between Delayed Sleep Phase Syndrome and Impaired health ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Capillary specimen collection and Central line placement ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Hepatic Stellate Cells and Angiopoietin-Related Protein 4, Human ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Iron Chelating Agents and Alzheimer's Disease ?", "label": "TREATS"}
+{"text": "what is the relationship between Atypical Endometrial Hyperplasia and High Grade Lesion ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between v-rel Genes|REL and B-cell homeostasis ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Functional rehabilitation and Ankle Injuries ?", "label": "TREATS"}
+{"text": "what is the relationship between CACNA1A gene|CACNA1A and Genotype-Phenotype Associations ?", "label": "AFFECTS"}
+{"text": "what is the relationship between RAD21 gene|RAD21 and substantia propria of cornea development ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Inflammatory Response and Virus Diseases ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between UNC5B-AS1 gene|UNC5B-AS1 and 5-ethynyl-2'-deoxyuridine ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Microvascular Decompression Surgery and Glossopharyngeal Neuralgia ?", "label": "TREATS"}
+{"text": "what is the relationship between Gene Expression and Aging-Related Process ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between CEM15 protein, human|APOBEC3G and BECN1 gene|BECN1 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Primary Intraosseous Squamous Cell Carcinoma and Jaw ?", "label": "AFFECTS"}
+{"text": "what is the relationship between MMP13 gene|MMP13 and MIR150 wt Allele ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between LINC02195 gene|LINC02195 and Histocompatibility Antigens Class I ?", "label": "INHIBITS"}
+{"text": "what is the relationship between SOCS1 gene|SOCS1 and Tyrosine Kinase-Associated Receptor Down-Regulation ?", "label": "AFFECTS"}
+{"text": "what is the relationship between amylovoran and auto-aggregation ?", "label": "AFFECTS"}
+{"text": "what is the relationship between IRX3 gene|IRX3 and UCP1 gene|UCP1 ?", "label": "STIMULATES"}
+{"text": "what is the relationship between Amine Group and gentisic acid ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between BCORL1 gene|BCORL1 and DNMT3A gene|DNMT3A ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between biological adaptation to stress and Durum Wheat ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Cervix Diseases and [tyrosine 3-monooxygenase] kinase activity ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between GPA33 gene|GPA33 and Intraductal papillary mucinous neoplasm ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between SDHA gene|SDHA and thifluzamide ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between TMP195 and IkappaB Kinase beta ?", "label": "INHIBITS"}
+{"text": "what is the relationship between LINC01116 gene|LINC01116 and BLNK gene|BLNK ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between 7-dehydrocholesterol reductase|DHCR7 and brassinosteroid biosynthetic process ?", "label": "AFFECTS"}
+{"text": "what is the relationship between SUV39H1 gene|SUV39H1 and WNT10A gene|WNT10A ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between RNF115 gene|RNF115 and autophagosome maturation ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between FABP7 gene|FABP7 and ATP Citrate (pro-S)-Lyase|ATP8A2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Cancer-Associated Fibroblasts and VCAN gene|VCAN ?", "label": "PRODUCES"}
+{"text": "what is the relationship between MIRN125A gene|MIR125A and CDKN2B-AS1 gene|CDKN2B-AS1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between ABCA1 gene|ABCA1 and antepartum malaria ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Periodontitis and Alzheimer's Disease ?", "label": "CAUSES"}
+{"text": "what is the relationship between influenza B virus and Viral strain ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Periarticular osteopenia and receptor ligand ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Ectopic adrenal cortex and Salpingitis isthmica nodosa ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Genome, Mitochondrial and RNA, Ribosomal, 16S ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Vertical fracture and Tooth structure ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between BAP1 gene|RNF2|BAP1|MAGI1 and INO80 gene|INO80 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between CARDIAC causes and Laryngeal Nerve Palsy, Recurrent ?", "label": "CAUSES"}
+{"text": "what is the relationship between Discussion (procedure) and Iatrogenic Disease ?", "label": "PREVENTS"}
+{"text": "what is the relationship between ivosidenib and alpha-hydroxyglutarate ?", "label": "INHIBITS"}
+{"text": "what is the relationship between liraglutide and Lipids ?", "label": "INHIBITS"}
+{"text": "what is the relationship between Surgical procedure on orbit proper and Orbit Sarcoma ?", "label": "TREATS"}
+{"text": "what is the relationship between Guinea pig adenovirus and Mastadenovirus ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Cell Plasticity and Musculoskeletal Development ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between DPYSL5 gene|DPYSL5 and Inflammatory abnormality of the eye ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Stem cell of epidermis and growth differentiation factor 5 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between caspase-5 and Alzheimer's Disease ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Pressure support and Chronic hypercapnic respiratory failure ?", "label": "TREATS"}
+{"text": "what is the relationship between IgG4-Related Sclerosing Disease and Parotitis ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between nitinol and kappa-Carrageenan ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Blepharospasm and Abnormal nervous system electrophysiology ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Anti-Mycobacterial Agents and Nitroreductases ?", "label": "STIMULATES"}
+{"text": "what is the relationship between 9-(2,3-dihydroxy-3-methylbutoxy)-4-methoxy-7H-furo(3,2-g)(1)benzopyran-7-one and hepatocyte apoptotic process ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Pratylenchus crenatus and Vaccinium corymbosum ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between SH3KBP1 gene|SH3KBP1 and BAIAP2 protein, human|BAIAP2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between ORAI1 gene|ORAI1 and SPP1 gene|SPP1 ?", "label": "STIMULATES"}
+{"text": "what is the relationship between SDCBP2 gene|SDCBP2 and Alarmins ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between USP7 gene|USP7 and KDF1 gene|KDF1 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between toltrazuril and enrofloxacin ?", "label": "INHIBITS"}
+{"text": "what is the relationship between BAZ1B gene|BAZ1B and Normal development ?", "label": "AFFECTS"}
+{"text": "what is the relationship between IFI6 gene|IFI6 and HSF1 gene|HSF1 ?", "label": "STIMULATES"}
+{"text": "what is the relationship between Low Density Lipoprotein Receptor-Related Protein-5 and Wnt Signaling ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Benzoic Acids and Tertiary amines, anticholinergic ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Skin Specimen and Hyperpigmented lesions ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between MAP kinase kinase kinase 7 and CALML6 gene|CALML6 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Pyknodysostosis and Chronic osteomyelitis ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Prophylactic Mastectomy and BRCA1 Mutation ?", "label": "TREATS"}
+{"text": "what is the relationship between Primary malignant neoplasm of lung and Trousseau's syndrome ?", "label": "COMPLICATES"}
+{"text": "what is the relationship between PM20D1 gene|PM20D1 and Alzheimer's Disease ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between MIRN33 gene|MIR33A and C1GALT1C1 gene|C1GALT1C1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Facial Nerve Injuries and Fracture of temporal bone ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between VSIG4 gene|VSIG4 and Dentatorubral-Pallidoluysian Atrophy ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Thymic Carcinoma and Neoplasm of diaphragm ?", "label": "CAUSES"}
+{"text": "what is the relationship between KIAA1109 gene|KIAA1109 and ALKURAYA-KUCINSKAS SYNDROME ?", "label": "CAUSES"}
+{"text": "what is the relationship between Benzo(a)pyrene and IL28B protein, human|IFNL3 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Cricetinae and Opisthorchis viverrini ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Conjugated Linoleic Acid and SREBF1 gene|SREBF1 ?", "label": "INHIBITS"}
+{"text": "what is the relationship between von Willebrand factor, human|VWF and GP1BA gene|GP1BA ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between ZNF451 protein, human|ZNF451 and Sumoylation ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Polychromophilus murinus and Polychromophilus melanipherus ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between 3-xylene and resorcinol ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Adjuvant Radiation Therapy and Primary malignant neoplasm of soft tissues ?", "label": "TREATS"}
+{"text": "what is the relationship between Hepatozoon sp. and Echis carinatus ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between tenapanor and Irritable bowel syndrome characterized by constipation ?", "label": "TREATS"}
+{"text": "what is the relationship between Repair of aortic valve with tissue graft and Sick Sinus Syndrome ?", "label": "TREATS"}
+{"text": "what is the relationship between CHL1 gene|CHL1 and smoothened signaling pathway ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between 2-(4-bromo-2,5-dimethoxyphenyl)ethylamine and Drug Sample ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Staple, Surgical and Scapholunate advanced collapse ?", "label": "TREATS"}
+{"text": "what is the relationship between MBD2 gene|MBD2 and anisole ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Capsular Contracture and Subclinical infection ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Interleukin-8 and Ataxia Telangiectasia ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Mirn124a microRNA, human and mesenchymal cell migration ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between Hepatocyte Growth Factor|HGF and epithelial to mesenchymal transition ?", "label": "CAUSES"}
+{"text": "what is the relationship between Streptococcus zooepidemicus and Aneurysm, Infected ?", "label": "CAUSES"}
+{"text": "what is the relationship between MAD2L1BP gene|MAD2L1BP and Novel Mutation ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Polyunsaturated Fatty Acids and Depressive Symptoms ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between slight fever and Pili torti-deafness syndrome ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Very rare and Concha bullosa ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between IL2RA gene|IL2RA and HLA-DR alpha ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Hereditary muscle Diseases and Bulbar weakness ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between isorhamnetin-3-O-neohesperidoside and Resorption ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between DSG1 gene|DSG1 and Tenascin, human|TNC|TNNC1 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Duhamel procedure and Megacolon ?", "label": "TREATS"}
+{"text": "what is the relationship between Tertiary amines, anticholinergic and DDT (Insecticide) ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between MIR182 gene|MIR182 and CASC11 gene|CASC11 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Abdominal mass and Sex Differentiation Disorders ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Paratanaisia bragai and Subulina octona ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between TRPA1 gene|TRPA1 and Iris (Eye) ?", "label": "AFFECTS"}
+{"text": "what is the relationship between CRB1 gene|CRB1 and ABCA4 gene|ABCA4 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Paraffin bath therapy and Hand eczema ?", "label": "TREATS"}
+{"text": "what is the relationship between Dentatorubral-Pallidoluysian Atrophy and Liver Dysplastic Nodule ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Adult Acute Myeloblastic Leukemia and FLT3 Internal Tandem Duplication ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Staple, Surgical and Postoperative intestinal obstruction ?", "label": "CAUSES"}
+{"text": "what is the relationship between SLAMF7 gene|SLAMF7 and interleukin-6 production ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between Hexokinase 1|HK1 and MAPK signaling ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Phosphorus Compounds, Unspecified and polyurethane foam ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Acrid Crowfoot and Related ?", "label": "CAUSES"}
+{"text": "what is the relationship between Cutaneous reticulohistiocytosis and Eruptions ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between GABA-B Receptor and Habenula ?", "label": "AFFECTS"}
+{"text": "what is the relationship between GALNT10 gene|GALNT10 and HOXD13 gene|HOXD13 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between lioresal intrathecal and Ability to walk ?", "label": "AFFECTS"}
+{"text": "what is the relationship between EDC4 gene|EDC4 and MARF1 gene|MARF1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Operation for sexual transformation and Transgendered Persons ?", "label": "TREATS"}
+{"text": "what is the relationship between Neurological Rehabilitation and Patient Engagement ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between COL11A2 gene|COL11A2 and STICKLER SYNDROME, TYPE II (disorder) ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Swallowing promotion therapy and Esophago-gastric anastomosis ?", "label": "TREATS"}
+{"text": "what is the relationship between MAFB protein, human|MAFB and CCL16 gene|CCL16 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between SLC22A2 gene|SLC22A2 and abemaciclib ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between HAVCR2 gene|HAVCR2 and T-Cell Surface Protein Tactile|CD96 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Reality Therapy and Phantom Limb ?", "label": "TREATS"}
+{"text": "what is the relationship between pomegranate seed oil and mitochondria-nucleus signaling pathway ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between Analgesia in labor and Calcinosis cutis, dystrophic ?", "label": "TREATS"}
+{"text": "what is the relationship between romiplostim and Refractory Autoimmune Thrombocytopenia ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between 5-hydroxylysine and Collagen Type V ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Mediator of activation protein and Esophageal Epidermoid Carcinoma ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between A1CF protein, human|A1CF and p53 signaling pathway ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between NONAKA MYOPATHY and yeast to hyphal transition ?", "label": "AFFECTS"}
+{"text": "what is the relationship between thiol-dependent ubiquitin-specific protease activity and NDRG1 gene|NDRG1 ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Panniculitis and TAFRO syndrome ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Hemilaminectomy and Myelomalacia ?", "label": "TREATS"}
+{"text": "what is the relationship between TMPRSS13 gene|TMPRSS13 and PRSS8 protein, human|PRSS8 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between udenafil and Spermatic Cord Torsion ?", "label": "TREATS"}
+{"text": "what is the relationship between Aphids and Abelmoschus esculentus ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between KEAP1 protein, human|KEAP1 and cardiac muscle cell hypertrophy ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between GPR83 gene|GPR83 and NPY gene|NPY ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between bushen jianpi and Anemia of chronic disease ?", "label": "TREATS"}
+{"text": "what is the relationship between Radioembolization and Venous Invasion ?", "label": "TREATS"}
+{"text": "what is the relationship between juzentaihoto and insulin sensitivity ?", "label": "TREATS"}
+{"text": "what is the relationship between Colforsin and 4-nitrophenylphosphorylcholine ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between DUSP2 gene|DUSP2 and pterostilbene ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between PKD1 gene|PKD1 and lysosomal lumen acidification ?", "label": "CAUSES"}
+{"text": "what is the relationship between Tethered Cord Syndrome and Congenital scoliosis ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Transplanted heart present and Posterior rhinorrhea ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between MAP7 gene|MAP7 and herstatin protein, human ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between lapachol and GAPDH gene|GAPDH ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between SPX gene|SPX and Overall status ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Auditory Brain Stem Implantation and Inner ear malformation ?", "label": "TREATS"}
+{"text": "what is the relationship between KDM1B gene|KDM1B and heterochromatin assembly ?", "label": "AFFECTS"}
+{"text": "what is the relationship between endometriosis surgery and Deep endometriosis ?", "label": "TREATS"}
+{"text": "what is the relationship between protein tyrosine kinase brk, human|PTK6 and BCAR1 gene|BCAR1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between NEDD8 Activating Enzyme and Anti-Antibodies ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Progressive liver disease and Jaundice, Chronic Idiopathic ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between gastric lipase, human and gastrointestinal digestion ?", "label": "AFFECTS"}
+{"text": "what is the relationship between HSD17B10 gene|HSD17B10 and tRNA processing ?", "label": "AFFECTS"}
+{"text": "what is the relationship between E. officinalis and Menorrhagia ?", "label": "TREATS"}
+{"text": "what is the relationship between Bruck-de Lange syndrome and Neuroretinitis ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between gamma-Aminobutyric Acid and Major Depressive Disorder ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Necrotic muscle fibers and Necrotic debris ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Malignant Head and Neck Neoplasm and spinal bone metastases ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between PTPN22 protein, human|PTPN22 and Lactated Ringer's Solution ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between PRICKLE2 gene|PRICKLE2 and Alzheimer's Disease ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between maltotetraohydrolase and maltooligosaccharides ?", "label": "PRODUCES"}
+{"text": "what is the relationship between ARRDC3 protein, human|ARRDC3 and Triple-Negative Breast Carcinoma ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between MAP2K4 gene|MAP2K4 and HNF1A-AS1 gene|HNF1A-AS1 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between OAS3 gene|OAS3 and DMRT3 gene|DMRT3 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between RAB11A gene|RAB11A and vesicle-mediated transport ?", "label": "AFFECTS"}
+{"text": "what is the relationship between H3P23 gene and palbociclib ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between globotriaosylceramide and CSK protein, human|CSK ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between AGO4 gene|AGO4 and cytosine methylation ?", "label": "AFFECTS"}
+{"text": "what is the relationship between VPS4A gene|VPS4A and Anemia, Hemolytic, Congenital ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between ledipasvir / sofosbuvir and Hepatitis C virus genotype ?", "label": "TREATS"}
+{"text": "what is the relationship between Xylene and External Ear ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between SRRT gene|SRRT and miRNA-mediated gene silencing, production of miRNAs ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between Procedures on veins and Traumatic injury ?", "label": "TREATS"}
+{"text": "what is the relationship between PARK7 gene|PARK7 and IL6 protein, human|IL6 ?", "label": "STIMULATES"}
+{"text": "what is the relationship between complement factor H, human and C5 gene|C5 ?", "label": "PRODUCES"}
+{"text": "what is the relationship between ZFAS1 gene|ZFAS1 and cardiac endothelial to mesenchymal transition ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between Sodium Chloride and Adapt ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between MIR613 gene|MIR613 and LINC00707 gene|LINC00707 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Nulliparity and Physical Effort ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Human Neprilysin|MME and Phyllodes Tumor ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Chronic thromboembolic pulmonary hypertension and Old thrombus ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Topical form corticosteroids and Dermatitis acneiform ?", "label": "TREATS"}
+{"text": "what is the relationship between Hereditary Neurodegenerative Disorder and Lower limb spasticity ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between telomerase reverse transcriptase and Gastric Adenocarcinoma ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between CPT1C gene|CPT1C and SACM1L gene|SACM1L ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Fractures, Closed and Complete rupture ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Cardiac myxoma and Primary cardiac lymphoma ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Urinary flow rate and Nocturnal polyuria ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between ROBO1 gene|ROBO1 and Midline crossing defects ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between NR4A2 protein, human|NR4A2 and ELAV-Like Protein 2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between PERSULFATE and 4-chlorophenol ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Whey Protein Isolate and Interstitial fluid glucose concentration ?", "label": "INHIBITS"}
+{"text": "what is the relationship between Retinal pigmentary degeneration and BIETTI CRYSTALLINE CORNEORETINAL DYSTROPHY ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Arising and Chronic active Epstein-Barr virus infection ?", "label": "TREATS"}
+{"text": "what is the relationship between sesamolin and Inorganic acid ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between MIL-101 and GRB2 wt Allele ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Corydale and Mycoplasma pneumonia ?", "label": "TREATS"}
+{"text": "what is the relationship between Hepatocyte Nuclear Factor 3-beta and Squamous metaplasia ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Gardening and Food Insecurity ?", "label": "PREVENTS"}
+{"text": "what is the relationship between ivacaftor / lumacaftor and Dyspnea on exertion ?", "label": "AFFECTS"}
+{"text": "what is the relationship between ABO gene|ABO and SELE gene|SELE ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Polycomb Repressive Complex 2 and neuron maturation ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between Debulking Procedure and Persistent Disease ?", "label": "TREATS"}
+{"text": "what is the relationship between Conalbumin and Bacterial Fimbria ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between Polyhydroxyalkanoates and 4-aminohippuric acid ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between T-cell lymphopenia and Severe combined immunodeficiency, atypical ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between RGS4 gene|RGS4 and prostaglandin secretion ?", "label": "AFFECTS"}
+{"text": "what is the relationship between RPE65 gene|RPE65 and Hereditary retinal dystrophy ?", "label": "CAUSES"}
+{"text": "what is the relationship between EGFR Protein Overexpression and Tumor Hypoxia ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Tea Tree Oil and Infestation ?", "label": "TREATS"}
+{"text": "what is the relationship between Complement C1q and Complement C4b-Binding Protein|C4B ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Second half and Threatened Preterm Labor ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Neovascularization, Physiologic and Corpus Luteum Development ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Maternal-Fetal Infection Transmission and Pediatric human immunodeficiency virus infection ?", "label": "CAUSES"}
+{"text": "what is the relationship between PMPCA gene|PMPCA and ARL13B gene|ARL13B ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between ELL2 gene|ELL2 and Prostate Neuroendocrine Neoplasm ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between Ras Signaling Pathway and BCAT1 gene|BCAT1 ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Milk, Human and Neonatal jaundice due to delayed conjugation from breast milk inhibitor ?", "label": "CAUSES"}
+{"text": "what is the relationship between Impulsive character (finding) and Obsessions ?", "label": "AFFECTS"}
+{"text": "what is the relationship between SNORD54 gene|SNORD54 and SCARA3 gene|SCARA3 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between OTUD4 gene|OTUD4 and SMURF2 gene|SMURF2 ?", "label": "INHIBITS"}
+{"text": "what is the relationship between acetoacetic acid and pitolisant ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between dabigatran and Humanized Monoclonal Antibody Fragment ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between PPP1R14A gene|PPP1R14A and SHORT ROOT protein, Arabidopsis ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between UBE2S gene|UBE2S and type I interferon production ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between RIT and HCl ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between ABC-294640 and regorafenib ?", "label": "INHIBITS"}
+{"text": "what is the relationship between pork collagen preparation and [D]Chronic intractable pain ?", "label": "TREATS"}
+{"text": "what is the relationship between Ataxin-2 and TENT2 gene ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between combretastatin A-1 and BECN1 protein, human|BECN1 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Cone-Rod Dystrophy 2 and Unfavorable Clinical Outcome ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Clementine and Food-Drug Interactions ?", "label": "CAUSES"}
+{"text": "what is the relationship between Platelet-Derived Growth Factor Receptor Alpha, human and Eosinophilic granulomatous polyp ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between TENT5C gene and norcantharidin ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between PET - Severe pre-eclamptic toxaemia and Infection ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Oral drug preparation, NOS and LY2963016 insulin glargine ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between obovatol and Apoptosis Regulatory Proteins ?", "label": "STIMULATES"}
+{"text": "what is the relationship between Sus scrofa embryo preparation and Cell-Free DNA ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between ZC3H10 gene|ZC3H10 and UCP1 gene|UCP1 ?", "label": "STIMULATES"}
+{"text": "what is the relationship between regional nerve block and Hypertension, severe ?", "label": "TREATS"}
+{"text": "what is the relationship between SLC5A8 gene|SLC5A8 and matrine ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between HNRPA1 gene|HNRNPA1 and MicroRNA 483-5p ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between PEG 8000 and Lipidome ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Chromatin Remodeling Factor and chromatin organization ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between cortisone and Cell Survival ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Diminished ovarian reserve and Recurrent pregnancy loss ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between CD11C+ cell and BST2 gene|BST2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between 3 mm and Placenta Percreta ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Bleomycin/Doxorubicin/Prednisone regimen (BAP) and store-operated calcium entry ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Amoxil and Acute tonsillitis NOS ?", "label": "TREATS"}
+{"text": "what is the relationship between CCND2 gene|CCND2 and Malformations of Cortical Development, Group II ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Emotional abuse and Short telomere length ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Eukaryotic Initiation Factor-4A3|EIF4A1|EIF4A2 and RPL34-DT gene ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Potyvirus and Maize chlorotic mottle virus ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Anterior dislocation of lens and Stromal keratitis ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between trichloroisocyanuric acid and diketone ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between SERPINH1 gene|SERPINH1 and KDELR2 gene|KDELR2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between IL17RB gene|IL17RB and ETV5 gene|ETV5 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Thoracoscopy and Pleural infection ?", "label": "TREATS"}
+{"text": "what is the relationship between Aphids and Carduus nutans ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between MBL2 gene|MBL2 and B variant NOS ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between 192 IgG-saporin and INTS6 gene|INTS6 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between PTK2B gene|PTK2B and Alzheimer Disease, Early Onset ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Acute illness and Beriberi ?", "label": "CAUSES"}
+{"text": "what is the relationship between intestinal bacteria and Human rotavirus ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between cardiovascular disorder risk and Diastolic hypertension ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between ULK1 gene|ULK1 and autophagosome maturation ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Circulating Protein and Childhood Lymphoma ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between LDN 57444 and Extrusion ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between MAP1LC3B gene|MAP1LC3B and SIRT2 gene|SIRT2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between SMAD4 protein, human|SMAD4 and HECW1 gene|HECW1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between MRLN gene|MRLN and Arecoline ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Dichorionic diamniotic twin pregnancy and SIMPSON-GOLABI-BEHMEL SYNDROME, TYPE 1 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Gastrointestinal system and Hard stool ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between ketone body metabolism and Diabetes ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Jackson - Pratt drain and Face oedema ?", "label": "PREVENTS"}
+{"text": "what is the relationship between TJP2 gene|TJP2 and USP53 gene|USP53 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between polyetheretherketone and Intensity change ?", "label": "CAUSES"}
+{"text": "what is the relationship between RUVBL1 gene|RUVBL1 and E2F1 protein, human|E2F1|UBE2L3 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between GDF6 gene|GDF6 and keratinase ?", "label": "PRODUCES"}
+{"text": "what is the relationship between BCOR gene|BCOR and YWHAE/FAM22 Fusion Gene ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Procedure on heart and Cardiac infection ?", "label": "TREATS"}
+{"text": "what is the relationship between Humeral Fractures and Injury of radial nerve ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between TBC1D20 gene|TBC1D20 and TDRD7 gene|TDRD7 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Tumor-Associated Macrophage and CCL15 gene|CCL15 ?", "label": "PRODUCES"}
+{"text": "what is the relationship between Maternal malnutrition NOS and Large for gestational age ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between PITX2 gene|PITX2 and Flecainide ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Epigenome and entinostat ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between norketamine and stress related disorder ?", "label": "TREATS"}
+{"text": "what is the relationship between blinatumomab and Molecular Response ?", "label": "CAUSES"}
+{"text": "what is the relationship between garcimultiflorone K and TGFBR2 protein, human|TGFBR2 ?", "label": "INHIBITS"}
+{"text": "what is the relationship between nylon 6 and Carbon Cycle ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Rhizobium etli and Aspartate Ammonia-Lyase|ASPA ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between SCID-Repopulating Cell and PRMT5 gene|PRMT5 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between ARF1 gene|ARF1 and mitochondrial transport ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Mechanical ventilation and Asthma ?", "label": "TREATS"}
+{"text": "what is the relationship between globotriaosylceramide and Progressive renal disorder ?", "label": "CAUSES"}
+{"text": "what is the relationship between Health Risk Behaviors and Body Image Dissatisfaction ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Peracetic Acid and Kraft lignin ?", "label": "STIMULATES"}
+{"text": "what is the relationship between LINC01013 gene|LINC01013 and SCAP gene|SCAP ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between GDPD5 gene|GDPD5 and amyloid precursor protein catabolic process ?", "label": "STIMULATES"}
+{"text": "what is the relationship between RPS6 gene|RPS6 and SMN2 gene|SMN2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between FBLN1 gene|FBLN1 and chondrocyte proliferation ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between drug excretion and glycoprotein transport ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Adenocarcinoma, Mucinous and Uterine Corpus Cancer ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Castration, Male and bilateral scrotal swellings ?", "label": "TREATS"}
+{"text": "what is the relationship between Obesity care and Placental dysfunction ?", "label": "TREATS"}
+{"text": "what is the relationship between Parasite Control and Body condition ?", "label": "TREATS"}
+{"text": "what is the relationship between costunolide and Eryptosis ?", "label": "CAUSES"}
+{"text": "what is the relationship between homologous recombination and Meioses ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Methyl ether and ABCA1 gene|ABCA1 ?", "label": "INHIBITS"}
+{"text": "what is the relationship between erdafitinib and Liposarcoma, Dedifferentiated ?", "label": "TREATS"}
+{"text": "what is the relationship between SMAD5 gene|SMAD5 and ZFHX1B gene|ZEB2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between ABBV 181 and Advanced Malignant Solid Neoplasm ?", "label": "TREATS"}
+{"text": "what is the relationship between MRNIP gene|MRNIP and MRE11 gene|MRE11 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Embolization of artery and Hemarthrosis of knee ?", "label": "TREATS"}
+{"text": "what is the relationship between MAV protocol and Refractory Acute Myeloid Leukemia ?", "label": "TREATS"}
+{"text": "what is the relationship between Transcription Factor AP-1, human|JUN and huangqi decoction ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between AGK gene|AGK and megakaryocyte development ?", "label": "AFFECTS"}
+{"text": "what is the relationship between alanylglutamine and orexin A ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between DUSP14 gene|DUSP14 and Postoperative cognitive dysfunction ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between KCND2 gene|KCND2 and PIN1 gene|PIN1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Short neck and Spontaneous Preterm Birth ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between Storage proteins and Hypersensitivity ?", "label": "CAUSES"}
+{"text": "what is the relationship between CCL26 protein, human|CCL26 and MIR301A gene|MIR301A ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between cellular response to unfolded protein and Thermotolerance ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between OLMALINC gene|OLMALINC and Heterogeneous-Nuclear Ribonucleoprotein K ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between CARD10 gene|CARD10 and UMOD gene|UMOD ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between amentoflavone and Structure of thick cushion of skin on foot ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between Inflammatory neuropathy and Multifocal motor neuropathy ?", "label": "AFFECTS"}
+{"text": "what is the relationship between POLE gene|POLE and Endometrioid carcinoma ovary ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Genital hypoplasia and Robinow syndrome ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between CNOT1 gene|CNOT1 and RNA-directed DNA methylation ?", "label": "AFFECTS"}
+{"text": "what is the relationship between LAG3 gene|LAG3 and T cell mediated immunity ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between Autosomal Recessive Disorder and Blue sclera ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Scuba diving and Symptom severe ?", "label": "CAUSES"}
+{"text": "what is the relationship between Humeral Fractures and Paralysis radial ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between MIR3195 gene|MIR3195 and PROK2 gene|PROK2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between thorium X and piperazine-N,N'-bis(2-ethanesulfonic acid) ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between artemisinine and Angiogenesis ?", "label": "INHIBITS"}
+{"text": "what is the relationship between Zeocin and L1CAM gene|L1CAM ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Osteopathic Combined Method and Congenital pseudoarthrosis of tibia ?", "label": "TREATS"}
+{"text": "what is the relationship between Durable Medical Equipment and Hypertension, severe ?", "label": "TREATS"}
+{"text": "what is the relationship between HPDL gene|HPDL and CD44 Antigens ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Local anesthetic lumbar epidural block and patient is male ?", "label": "TREATS"}
+{"text": "what is the relationship between Connective tissue nevus, NOS and Melorheostosis ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Lysine acetyltransferase and Gene Expression Regulation ?", "label": "AFFECTS"}
+{"text": "what is the relationship between cyclin B2|CCNB2 and PTTG1 gene|PTTG1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between plantamajoside and Ca cervix ?", "label": "TREATS"}
+{"text": "what is the relationship between CEP85L gene|CEP85L and Isolated cases ?", "label": "CAUSES"}
+{"text": "what is the relationship between Agrobacterium and RAP2A gene|RAP2A ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Superficial parotidectomy and Oncocytic metaplasia ?", "label": "TREATS"}
+{"text": "what is the relationship between Adjusted calcium and Hungry bones syndrome ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Human parainfluenza viruses and Abnormal cell structure ?", "label": "CAUSES"}
+{"text": "what is the relationship between Autosomal Recessive Disorder and Recurrent bacterial infection ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Propionic Acids and Alzheimer's Disease ?", "label": "AFFECTS"}
+{"text": "what is the relationship between CTBP1-DT gene and WNT7A gene|WNT7A ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Blastic NK-cell lymphoma and Complex Karyotype ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between BLNK gene|BLNK and SNHG16 gene|SNHG16 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between linoleoyl-CoA desaturase and 8,11,14-Eicosatrienoic Acid ?", "label": "PRODUCES"}
+{"text": "what is the relationship between Shigella sonnei and Crotoxin|CYP27A1 ?", "label": "PRODUCES"}
+{"text": "what is the relationship between Increased size (finding) and Implant Failure ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between Hair follicle structure and Mast/Stem Cell Growth Factor Receptor Kit, human|KIT ?", "label": "PRODUCES"}
+{"text": "what is the relationship between si-miao-yong-an decoction and cardiac muscle cell hypertrophy ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between diabetes mellitus management and Home Care Services ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Hypervitaminosis E and Brain hemorrhage ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between FLT3 Inhibitor and Mixed phenotype acute leukemia ?", "label": "TREATS"}
+{"text": "what is the relationship between ROOT DEVELOPMENT and Cellular signal transduction ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Regulatory DNA sequence and POU5F1 protein, human|POU5F1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between AKB-9778 and Intraocular pressure finding ?", "label": "AFFECTS"}
+{"text": "what is the relationship between artemisinine and hearing impairment ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Cardiac fibrosis and Ischemic congestive cardiomyopathy ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Interleukin-35 and Type 1 Autoimmune Pancreatitis ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between HAND2-AS1 gene|HAND2-AS1 and HIF3A gene|HIF3A ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between ATF4 gene|ATF4 and PMAIP1 gene|PMAIP1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between cell fate commitment and hair follicle development ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Carbapenem resistant Klebsiella pneumoniae and purulent; meningitis ?", "label": "CAUSES"}
+{"text": "what is the relationship between linoleates and ribosomal RNA methylase ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Long Interspersed Nucleotide Element-1 and PDGFD protein, human|PDGFD ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Capgras Syndrome and Agenesis ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between FAF2 gene|FAF2 and ALLC gene|ALLC ?", "label": "INHIBITS"}
+{"text": "what is the relationship between Head and neck injury and Motorcycle accident ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between ACTG1 gene|ACTG1 and Hearing Loss, High-Frequency ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between KDM1A gene|KDM1A and COL9A1 gene|COL9A1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between KDM5B gene|KDM5B and GUCY2D gene|GUCY2D ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between ACE2 protein, human|ACE2 and cardiac muscle hypertrophy ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Sustained ventricular tachycardia and T wave alternans ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Multivalent Vaccines and multiple Strains ?", "label": "PREVENTS"}
+{"text": "what is the relationship between Craniectomy and Infarction, Middle Cerebral Artery ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between Dipeptidyl-Peptidase IV Inhibitors and Alzheimer's Disease ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between DDB2 gene|DDB2 and Recognition, Psychology ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between SUGAR/WATER and Rhodamine B ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between SIGLEC12 gene|SIGLEC12 and Advanced Carcinoma ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between CXCL14 gene|CXCL14 and MIR122 gene|MIR122 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Fleas and Family Dasypodidae ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between pralsetinib and Advanced Adenocarcinoma ?", "label": "TREATS"}
+{"text": "what is the relationship between Eysenhardtia polystachya and Nanotubes, Carbon ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between mitogen-activated protein kinase 7 and tumor vasculature ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Lymphatic Endothelial Cells and RSPO2 gene|RSPO2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between BONE CARIES and Orbital Neoplasms ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between ERO1A gene|ERO1A and Pancreatic intraepithelial neoplasia ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between MIR599 gene|MIR599 and SRSF2 gene|SRSF2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between SNHG5 gene|SNHG5 and COMMD1 gene|COMMD1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between APLNR gene|APLNR and ZHX2 gene|ZHX2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Laparoscopic left hemicolectomy and Diverticular Diseases ?", "label": "TREATS"}
+{"text": "what is the relationship between Shave excision and Pigmented lesions ?", "label": "TREATS"}
+{"text": "what is the relationship between SUMO-1 Protein and PIK3CB gene|PIK3CB ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Left oophorectomy and Juvenile granulosa cell tumor ?", "label": "TREATS"}
+{"text": "what is the relationship between low-density polyethylene and Sand ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Valvuloplasty of aortic valve and Unicuspid aortic valve ?", "label": "TREATS"}
+{"text": "what is the relationship between phenylacetaldehyde and kappa-Carrageenan ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between ATOX1 gene|ATOX1 and MEK-ERK Pathway ?", "label": "STIMULATES"}
+{"text": "what is the relationship between SLC6A3 protein, human|SLC6A3 and Circulating Neoplastic Cells ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Endoscopic mucosal resection and Sessile colonic polyp ?", "label": "TREATS"}
+{"text": "what is the relationship between alexidine and Bacterial isolate ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Pressure breathing and Ventilator-Induced Lung Injury ?", "label": "PREVENTS"}
+{"text": "what is the relationship between pomegranate extract and pelargonidin-3-glucoside ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Zn(II)-phthalocyanine and Sarin ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between carfilzomib and Hematologic Response ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between BCAR1 wt Allele|BCAR1 and TYRP1 gene|TYRP1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between cupressuflavone and CYP2C8 gene|CYP2C8 ?", "label": "INHIBITS"}
+{"text": "what is the relationship between Ameloblasts and 3CH134 protein ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between fluoroform and methyl acetate ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between [D]Elevated sedimentation rate and Standard chest X-ray abnormal ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between 5-methoxypsoralen and Macrophage, Bone Marrow-Derived ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between DUSP6 gene|DUSP6 and TRIM65 gene|TRIM65 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Ornidazole and PARK7 gene|PARK7 ?", "label": "INHIBITS"}
+{"text": "what is the relationship between Magnesium supplement and Glucose tolerance decreased (finding) ?", "label": "TREATS"}
+{"text": "what is the relationship between avelumab and eribulin ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between NGFRAP1 gene|BEX3 and IL5 protein, human|IL5 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between aerial parts and Hemorrhoids ?", "label": "TREATS"}
+{"text": "what is the relationship between ADARB1 gene|ADARB1 and RNA Editing ?", "label": "AFFECTS"}
+{"text": "what is the relationship between andrographolide and Hepatic injury, NOS ?", "label": "TREATS"}
+{"text": "what is the relationship between B-Cell Maturation Antigen and Anti-BCMA/CD3 BiTE Antibody AMG 701|AMELX ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Systemic Chemotherapy and Metastatic Malignant Neoplasm to the Leptomeninges ?", "label": "TREATS"}
+{"text": "what is the relationship between Fungal pneumonia and Acute pulmonary histoplasmosis ?", "label": "CAUSES"}
+{"text": "what is the relationship between sepiolite and Elastomers ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Migraine Disorders and Dementia ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between bovine serum albumin and Esters ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between SNC 80 and Stress seizure ?", "label": "AFFECTS"}
+{"text": "what is the relationship between ^18^Fluorine and Radiopharmaceuticals ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Indole derivatives, antipsychotic and Polyethylene Glycol 400 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between gigantol and Cancer Cell Growth ?", "label": "AFFECTS"}
+{"text": "what is the relationship between APOBEC3G gene|APOBEC3G and Increased apoptosis ?", "label": "CAUSES"}
+{"text": "what is the relationship between BCL6 wt Allele|BCL6 and PKD1 gene|PKD1 ?", "label": "INHIBITS"}
+{"text": "what is the relationship between Micrococcus aureus and Communicable Diseases ?", "label": "CAUSES"}
+{"text": "what is the relationship between Kynurenine and Depressive Symptoms ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Sodium propionate and Inflammatory lesion ?", "label": "INHIBITS"}
+{"text": "what is the relationship between Sirolimus^trough and Spondylo-ocular syndrome ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between nilotinib and Discoidin Domain Receptor 1 ?", "label": "INHIBITS"}
+{"text": "what is the relationship between TRPV5 gene|TRPV5 and KL protein, human|KL ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between methacrylaldehyde and methacrylic acid ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between MIR20A gene|MIR20A and NeuroD protein|NEUROD1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between fusion transcript and MDM4 gene|MDM4 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between EIF2AK4 gene|EIF2AK4 and Hemangiomatosis ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between tocopherol and Alzheimer's Disease ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Traumatic injury and Hyphema ?", "label": "CAUSES"}
+{"text": "what is the relationship between Endothelin receptor antagonist and Infant ?", "label": "TREATS"}
+{"text": "what is the relationship between Acquired disease and Infected Sinuses ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Esophagitis medicamentosa and [D]Retrosternal chest pain ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between MAPK8IP3 gene|MAPK8IP3 and SPAG9 gene|SPAG9 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Proliferation (morphologic abnormality) and Myelodysplastic-Myeloproliferative Diseases ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Poly(A)-Binding Protein I and Ataxin-2 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between landiolol and High molecular weight adiponectin ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between IL1A protein, human|IL1A and Glucose tolerance decreased (finding) ?", "label": "CAUSES"}
+{"text": "what is the relationship between SRP54 gene|SRP54 and DDX58 protein, human|DDX58 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Adenosine A3 Receptor|ADORA3 and L-ascorbic acid transport ?", "label": "AFFECTS"}
+{"text": "what is the relationship between MLLT7 gene|FOXO4 and conserved helix-loop-helix ubiquitous kinase ?", "label": "INHIBITS"}
+{"text": "what is the relationship between Contactin 2 and axon growth ?", "label": "AFFECTS"}
+{"text": "what is the relationship between anthrax toxin and Canine Melanoma ?", "label": "AFFECTS"}
+{"text": "what is the relationship between leaf development and meristem structural organization ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Uncontrolled pain and Dry skin ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Total body fat and Pubertal ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between ramucirumab and Rapidly progressive ?", "label": "CAUSES"}
+{"text": "what is the relationship between Heterotaxy Syndrome and Double aortic arch ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between DSG2 gene|DSG2 and soluble ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between CA5A gene|CA5A and junctophilin ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between echinacoside and p38 MAPK signaling ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between NCOR1 gene|NCOR1 and CDK5 gene|CDK5 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Bacterial isolate and alexidine ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between DNAH5 gene|DNAH5 and Primary Ciliary Dyskinesia ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between ADCY6 gene|ADCY6 and Annexin A4|ANXA4 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Drug Tapering and Poor metabolizer ?", "label": "TREATS"}
+{"text": "what is the relationship between LEF1 gene|LEF1 and CR2 gene|CR2|TDGF1P2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Genetic assessment and Assisted Reproductive Technologies ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between RNA Motifs and GUCY1A2 gene|GUCY1A2 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Tissue Inhibitor of Metalloproteinase-3 and Equine Gonadotropins ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Day 7 and Complete Recovery ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between HTATIP gene|KAT5 and PRMT5 gene|PRMT5 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between cyclohexene and Ornithine-oxo-acid aminotransferase ?", "label": "INHIBITS"}
+{"text": "what is the relationship between Vibrio parahaemolyticus and seafood poisoning ?", "label": "CAUSES"}
+{"text": "what is the relationship between NDUFAB1 gene|NDUFAB1 and ODF2 gene|ODF2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between PLA2G4A gene|PLA2G4A and glutamate metabolism ?", "label": "AFFECTS"}
+{"text": "what is the relationship between amthamine and Mice, Inbred BALB C ?", "label": "TREATS"}
+{"text": "what is the relationship between Alkanol and MCM-41 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Squamous cell carcinoma of tonsil and Palatine Tonsil ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Cryogels and immunoglobulin G, human ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Channelopathies and heart metabolism ?", "label": "AFFECTS"}
+{"text": "what is the relationship between P3H1 gene|P3H1 and COX8A gene|COX8A ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Urgent Procedure and Airway constriction ?", "label": "TREATS"}
+{"text": "what is the relationship between H-ras and Malignant neoplasm of liver ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between LHX4 gene|LHX4 and LHX3 gene|LHX3 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between ZNF1 gene|ZNF72P and gibberellic acid homeostasis ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Zinc Finger FYVE Domain-Containing Protein 9, human|RTN1|ZFYVE9|RTN4|SPECC1 and intracellular protein transport ?", "label": "AFFECTS"}
+{"text": "what is the relationship between SEZ6 gene|SEZ6 and GRIK2 gene|GRIK2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Duane Retraction Syndrome and Convergent gaze ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between beta Lactamase Inhibitor [EPC] and Acinetobacter Infections ?", "label": "TREATS"}
+{"text": "what is the relationship between Hen's egg and Food-protein induced enterocolitis syndrome ?", "label": "CAUSES"}
+{"text": "what is the relationship between Sex Cord-Stromal Tumor and granulosa cell tumor ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Endocrine-Gland-Derived Vascular Endothelial Growth Factor|VEGFA and PROKR2 protein, human|PROKR2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Encephalomyelitis and White matter changes ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between curcumol and hepatic stellate cell migration ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Geographic Atrophy and Photoreceptor degeneration ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Sarcoma of skin and Myelodysplastic-Myeloproliferative Diseases ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Towelettes and Diaper Rash ?", "label": "PREVENTS"}
+{"text": "what is the relationship between rhamnogalacturonan I and arabinogalactan ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Eating practice and Clonorchiasis ?", "label": "CAUSES"}
+{"text": "what is the relationship between CCDC25 gene|CCDC25 and Amino Acids, Basic ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Intra-operative nerve monitoring and Laryngeal Nerve Palsy, Recurrent ?", "label": "TREATS"}
+{"text": "what is the relationship between guanidine thiocyanate and Genetic Carriers ?", "label": "TREATS"}
+{"text": "what is the relationship between Monoiodoacetamide and Nelumbo nucifera, flower essence ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Intra-operative nerve monitoring and Planned procedure ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Orchitis and epididymitis NOS and Urethrorectal fistula ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Cell Cycle Checkpoint Genes and PRMT1 gene|PRMT1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Adenocarcinoma, Clear Cell and ERBB2 Gene Amplification ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between RGFP966 and cardiac muscle cell apoptotic process ?", "label": "CAUSES"}
+{"text": "what is the relationship between MIR451A wt Allele and terminal differentiation ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between myeloblast and Mast/Stem Cell Growth Factor Receptor Kit, human|KIT ?", "label": "PRODUCES"}
+{"text": "what is the relationship between RBM25 gene|RBM25 and INCENP gene|INCENP ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Autosomal Dominant Disorder and Mild Mental Retardation ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Ureterolithiasis and Erythrocytosis due to low atmospheric pressure ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between ANP32A gene|ANP32A and Biochemical Process ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Restorative Procedures and Orbital Fractures ?", "label": "TREATS"}
+{"text": "what is the relationship between Eudiaptomus and Dinobryon ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Fetal Bovine Serum and Hepatocyte Nuclear Factor 3-alpha|FOXA1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Hyperosmolar Hyperglycemic State and Cholinergic crisis ?", "label": "COMPLICATES"}
+{"text": "what is the relationship between Light and Lipogenic pigmentation ?", "label": "AFFECTS"}
+{"text": "what is the relationship between vibegron and >65 years ?", "label": "TREATS"}
+{"text": "what is the relationship between Cephalosporins and Febrile urinary tract infection ?", "label": "TREATS"}
+{"text": "what is the relationship between Surgical procedure on eye proper and Ophthalmic artery occlusion ?", "label": "CAUSES"}
+{"text": "what is the relationship between Levisticum officinale and caffeic acid ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between DCAF11 gene|DCAF11 and dimethyl ether ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Adenovirus Infections and Human adenovirus 7 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Cannabinoid Receptor Agonists and SHORT ROOT protein, Arabidopsis ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Hemoperitoneum and NPRL3 gene|NPRL3 ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between phthalide and ischemic brain injury ?", "label": "TREATS"}
+{"text": "what is the relationship between MIRN30A gene|MIR30A and prostate gland growth ?", "label": "AFFECTS"}
+{"text": "what is the relationship between ESTROGENS,VAGINAL and Genitourinary syndrome of menopause ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Bifunctional epoxide hydrolase 2 and Oxylipins ?", "label": "PRODUCES"}
+{"text": "what is the relationship between NRG1 gene|NRG1 and Oncogene Fusion ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Linoleic Acids, Conjugated and glycogen ?", "label": "INHIBITS"}
+{"text": "what is the relationship between TRIM28 gene|TRIM28 and E2F1 Transcription Factor ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Stage II Esophageal Squamous Cell Carcinoma and MDM2 Gene Amplification ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Arteriopathic disease and Vertebral Artery Dissection ?", "label": "CAUSES"}
+{"text": "what is the relationship between BACTEREMIA POLYMICROBIAL and Enterococcal bacteraemia ?", "label": "MANIFESTATION_OF"}
+{"text": "what is the relationship between Sphincterotomy of duodenal papilla and Impacted tooth ?", "label": "TREATS"}
+{"text": "what is the relationship between Teniposide and coping resources ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Bilateral hydronephrosis and Vesicoureteral Reflux 1 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Hemoglobin saturation with oxygen and Sleep Stages ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Replication Protein C, Subunit 4 and Oral Tongue Squamous Cell Carcinoma ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Substrate Deprivation Therapy and Gaucher Disease, Type 3 ?", "label": "TREATS"}
+{"text": "what is the relationship between fibrin fragment E and transforming growth factor beta activation ?", "label": "STIMULATES"}
+{"text": "what is the relationship between Circulating MicroRNA and EIF2C2 protein, human|AGO2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between TLX2 gene|TLX2 and Alzheimer's Disease ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Joint restrictions and Hemophilic arthropathy ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Negative Lymph Node and Lesch-Nyhan Syndrome ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Cisplatin/Gemcitabine and Advanced Cholangiocarcinoma ?", "label": "TREATS"}
+{"text": "what is the relationship between POT1 gene|POT1 and Cutaneous B-Cell Non-Hodgkin's Lymphoma ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between FGA gene|FGA and Progressive renal disorder ?", "label": "CAUSES"}
+{"text": "what is the relationship between RNA library and HIV-1 Reverse Transcriptase ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Prosthetic joint infection and Disseminated infection caused by Neisseria gonorrhoeae ?", "label": "COMPLICATES"}
+{"text": "what is the relationship between PRNCR1 gene|PRNCR1 and Pulmonary blood vessel injury ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Congenitally Corrected Transposition of the Great Arteries and VENTRICULAR SEPTAL DEFECT LARGE ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between TSPO gene|TSPO and Tetrahydrobiopterin ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between klotho protein|KL and Neuroimmunomodulation ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Clotrimazole and Woman ?", "label": "TREATS"}
+{"text": "what is the relationship between GTPBP1 gene|GTPBP1 and Viral resistance ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between Segmental osteotomy of mandible and Domestic Short Hair Cat ?", "label": "TREATS"}
+{"text": "what is the relationship between Osteochondrodysplasias and Premature osteoarthritis ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between SLC6A3 gene|SLC6A3 and GBR 12935 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Transient hypertension of pregnancy and Male fetus ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between AQP11 gene|AQP11 and DDIT3 protein, human|DDIT3 ?", "label": "STIMULATES"}
+{"text": "what is the relationship between Hepatitis E virus RNA and HNRNPK gene|HNRNPK ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Increased metabolic rate and Increased Immunologic Activity [PE] ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Osteoplasty and Slipped Capital Femoral Epiphyses ?", "label": "TREATS"}
+{"text": "what is the relationship between bleomycetin and fibroblast apoptotic process ?", "label": "CAUSES"}
+{"text": "what is the relationship between Molecular Targeted Therapy and Autoimmune Hypophysitis ?", "label": "CAUSES"}
+{"text": "what is the relationship between Occupational therapy regime and acute care ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Excision of axillary lymph nodes group and Axillary web syndrome ?", "label": "PREDISPOSES"}
+{"text": "what is the relationship between Laparoscopic Heller Myotomy and Esophageal motility disorders ?", "label": "TREATS"}
+{"text": "what is the relationship between ASAP1 gene|ASAP1 and dendritic cell migration ?", "label": "AFFECTS"}
+{"text": "what is the relationship between bothropstoxin II and MYOD1 gene|MYOD1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Glucocorticoid deficiency with achalasia and interleukin-6 production ?", "label": "CAUSES"}
+{"text": "what is the relationship between MIRN320 gene|MIR320A and fibroblast activation ?", "label": "AFFECTS"}
+{"text": "what is the relationship between cimifugin and imiquimod ?", "label": "INHIBITS"}
+{"text": "what is the relationship between Ant Venoms and TETRACHLOROMETHANE TOXICITY ?", "label": "PREVENTS"}
+{"text": "what is the relationship between AQP9 gene|AQP9 and AQP1 gene|AQP1 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between LINC00052 gene|LINC00052 and TGFBR2 protein, human|TGFBR2 ?", "label": "STIMULATES"}
+{"text": "what is the relationship between Pregnancy termination care and Unwanted pregnancy ?", "label": "TREATS"}
+{"text": "what is the relationship between Anti-Bacterial Agents and eczema ?", "label": "TREATS"}
+{"text": "what is the relationship between Escin and Evans blue stain ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between multicentric Castleman's disease and Immune reconstitution syndrome ?", "label": "COMPLICATES"}
+{"text": "what is the relationship between IFT122 gene|IFT122 and opsin transport ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between Blurred vision and Compression of optic nerve ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between benzyl cyanide and nitromethane ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Epichlorohydrin and chemical interaction ?", "label": "AFFECTS"}
+{"text": "what is the relationship between RPGR gene|RPGR and X-linked retinitis pigmentosa ?", "label": "CAUSES"}
+{"text": "what is the relationship between hexamidine and chlorhexidine gluconate ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between tellurite and nuclear stress granule ?", "label": "AUGMENTS"}
+{"text": "what is the relationship between manganese cation (2+) and Kaolinite ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between GDF11 gene|GDF11 and Thoracic aortic dissection ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between ESBL and hospital infection ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between Acalculous Cholecystitis and Hyperkinesia ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between ASIC3 gene|ASIC3 and nerve growth factor ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between pydiflumetofen and conidium germination ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between PLEKHO1 gene|PLEKHO1 and Cecum Perforation, CTCAE ?", "label": "CAUSES"}
+{"text": "what is the relationship between AK2 gene|AK2 and thrombospondin 2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between beta catenin and Tumorigenesis ?", "label": "DISRUPTS"}
+{"text": "what is the relationship between SFTPA2 gene|SFTPA2 and tumor necrosis factor production ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Laminin Receptor and PPP1CB gene|PPP1CB ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between Ligase and Cell physiology ?", "label": "AFFECTS"}
+{"text": "what is the relationship between Severe viral infection and Excessive activity ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between IL6ST protein, human|IL6ST and LMT-28 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Logotherapy and Low self-esteem ?", "label": "TREATS"}
+{"text": "what is the relationship between MIR373 wt Allele and FLT1 protein, human|FLT1 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between masoprocol and ALOX5 gene|ALOX5 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between cyclin B2|CCNB2 and Hepatitis B Virus-Related Hepatocellular Carcinoma ?", "label": "ASSOCIATED_WITH"}
+{"text": "what is the relationship between DCLK1 gene|DCLK1 and HOTAIR gene|HOTAIR ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Subacute endocarditis and Aortic stenosis, severe ?", "label": "CAUSES"}
+{"text": "what is the relationship between P2RX7 gene|P2RX7 and MYH9 gene|MYH9 ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between acute flaccid myelitis and polio syndrome ?", "label": "COEXISTS_WITH"}
+{"text": "what is the relationship between GATA6-AS1 gene|GATA6-AS1 and PSG1 wt Allele|SP1 ?", "label": "STIMULATES"}
+{"text": "what is the relationship between 78 kDa Glucose-Regulated Protein|HSPA5 and RHBDD2 gene|RHBDD2 ?", "label": "INTERACTS_WITH"}
+{"text": "what is the relationship between Contrast used and RNA translation ?", "label": "AFFECTS"}
